@@ -13,4 +13,4 @@ Arata is a simple shell written in C that I made for learning purposes *only*. T
 
 ## License
 
-Arata uses a MIT License. You're free to do anything with its code.
+Arata uses a Unlicense License. You're free to do anything with its code.
